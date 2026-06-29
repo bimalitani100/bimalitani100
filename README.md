@@ -5,7 +5,7 @@
 </p>
 
 💻 Computer Science Student | AI & Data Engineering Enthusiast  
-🏥 Building Healthcare AI, ML systems & AWS
+🏥 Building Healthcare AI & ML systems
 📊 Interested in ML pipelines, cloud, and real-world systems  
 
 ---
