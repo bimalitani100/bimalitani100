@@ -5,7 +5,7 @@
 </p>
 
 💻 Computer Science Student | AI & Data Engineering Enthusiast  
-🏥 Building Healthcare AI & ML systems  
+🏥 Building Healthcare AI, ML systems & AWS
 📊 Interested in ML pipelines, cloud, and real-world systems  
 
 ---
@@ -17,7 +17,7 @@
 - Peripheral artery disease detection [PAD] (Neural Network/ CNN)
 - Brain Tumor Detection (CNN / Deep Learning)
 - Stock Intelligence Dashboard (ML + PyQt6)
-- Data Engineering pipelines (Python + SQL)
+- Data Engineering pipelines (Python + SQL+ redshift(aws))
 
 ---
 
