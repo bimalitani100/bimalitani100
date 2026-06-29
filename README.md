@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bimal+Itani;Senior+Computer+Science+Major;Building+Real-World+Software+Projects" />
 </p>
 
-💻 Computer Science Student | AI & Data Engineering Enthusiast  
-🏥 Building Healthcare AI & ML systems
-📊 Interested in ML pipelines, cloud, and real-world systems  
+- 💻 Computer Science Student | AI & Data Engineering Enthusiast  
+- 🏥 Building Healthcare AI & ML systems
+- 📊 Interested in ML pipelines, cloud, and real-world systems  
 
 ---
 <p align="left">
