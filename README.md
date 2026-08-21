@@ -15,6 +15,7 @@
 
 ## What I'm Working On
 - Peripheral artery disease detection [PAD] (Neural Network/ CNN)
+- FinSight AI ( Next.js, TypeScript, FastAPI, PostgreSQL, PyTorch, AWS(S3) )
 - Brain Tumor Detection (CNN / Deep Learning)
 - Stock Intelligence Dashboard (ML + PyQt6)
 - Data Engineering pipelines (Python + SQL+ redshift(aws))
